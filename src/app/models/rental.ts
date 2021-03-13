@@ -1,5 +1,5 @@
 export interface Rental {
-    rentalId:number;
+    id:number;
     descripton:string;
     companyName:string;
     brandName:string;
